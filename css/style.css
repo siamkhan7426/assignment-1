@@ -264,17 +264,60 @@ justify-items: center;
     font-size: 1rem;
 }
 
+
+
+.section-7{
+    margin-top: 70px;
+    padding-left: 100px;
+    padding-right: 100px;
+    
+}
 .img-input{
     background-image:url(/imge/handshake.jpg);
     height: 313px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    padding: 20px ;
+    border-radius: 10px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
 
 }
+.input-b{
+    text-align: center;
+    
+}
+.input-b >h1{
+    color: #FFFFFF;
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.input-b >p{
+    color: #FFFFFF;
+    font-size: 1rem;
+    margin-bottom: 15px;
+}
 
+.input-text{
+    padding: 10px 90px;
+    text-align: left;
+    border-radius: 5px;
+  
+   
+}
+input::placeholder{
+    color: #0D132166;
+    
+}
 
+.btn-sub{
+    padding: 9px 24px;
+    font-size: 1rem;
+    font-weight: bold;
+    color: #0D1321;
+}
 
 
 .footer{
