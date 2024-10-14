@@ -30,6 +30,7 @@ justify-items: center;
     border-style: solid;
     background-color: white;   
 }
+
 .main{
     margin-top: 2rem;
     margin-bottom: 2rem;
@@ -68,6 +69,10 @@ justify-items: center;
     font-size: 18px;
 }
 
+.btn-a{
+    text-decoration: none;
+    color: #FFFFFF;
+}
 .hero-section-2{
     text-align: center;
     padding-top: 80px;
@@ -272,6 +277,7 @@ justify-items: center;
     padding-right: 100px;
     
 }
+
 .img-input{
     background-image:url(/imge/handshake.jpg);
     height: 313px;
