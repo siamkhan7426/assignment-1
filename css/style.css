@@ -290,6 +290,6 @@ justify-items: center;
 }
 
 
-.icon >img{
+.icon > a> img{
     margin-left: 10px;
 }
